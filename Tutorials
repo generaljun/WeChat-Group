@@ -49,7 +49,8 @@ https://www.duangvps.com/?p=135
       
 （b. 电脑用户
      电脑用户的使用过程主要也可以使用V2ray和Trojan
- note: b.1和b.2不要同时使用，选择其中一种使用
+ note: b.1和b.2不要同时使用，选择其中一种使用 
+     update: <1st> 3.14日发布了最新的客户端V2rayN可以同时支持Vmess协议和Trojan,下载地址见81行
      b.1 <V2ray>的使用
          1.电脑图形图形客户官方下载地址：
          git@github.com:2dust/v2rayN.git
@@ -77,3 +78,4 @@ https://www.duangvps.com/?p=135
  note:电脑端使用的时候也要注意的是，局部路由模式，国内网站不代理而直连，而国外代理。
           V2ray里面就是在设置里面有选择可以选则，对于Trojan我们规则列表和switch就是。
          如果按照教程仍然不能使用，请群里留言。
+      最新客户端下载地址：https://github.com/generaljun/WeChat-Group/raw/master/v2rayN-win-with-trojan-v2.zip
